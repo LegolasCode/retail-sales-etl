@@ -1,0 +1,505 @@
+order_id,order_date,customer_name,customer_city,product_name,category,quantity,unit_price,payment_method,status
+ORD00001,2026-03-12,Budi,Pekanbaru,Laptop Stand,Accessories,2,150000,Transfer,Completed
+ORD00002,2026-06-01,Budi,Pekanbaru,Wireless Mouse,Accessories,4,85000,Cash,Completed
+ORD00003,2026-03-01,Budi,Pekanbaru,USB Hub,Accessories,5,75000,TRANSFER,Completed
+ORD00004,2026-02-26,Dina,Bukittinggi,Monitor,Electronics,4,1800000,TRANSFER,completed
+ORD00005,2026-06-28,Andi,Padang,Keyboard,Accessories,4,175000,E-Wallet,completed
+ORD00006,2026-03-28,Citra,Padang,USB Hub,Accessories,1,75000,Cash,completed
+ORD00007,2026-03-30,Budi,Pekanbaru,Headset,Electronics,5,250000,E-Wallet,Completed
+ORD00008,2026-04-07,Hadi,Padang,Wireless Mouse,Accessories,1,85000,TRANSFER,completed
+ORD00009,2026-06-30,Fajar,Padang,USB Hub,Accessories,1,75000,Cash,Cancelled
+ORD00010,2026-01-21,Dina,Bukittinggi,Webcam,Electronics,2,350000,Cash,completed
+ORD00011,2026-06-12,Eka,Pekanbaru,SSD 512GB,Storage,3,750000,Transfer,completed
+ORD00012,2026-06-21,Fajar,Padang,USB Hub,Accessories,3,75000,Cash,Cancelled
+ORD00013,2026-02-11,Citra,Padang,USB Hub,Accessories,4,75000,cash,completed
+ORD00014,2026-01-15,Dina,Bukittinggi,Headset,Electronics,2,250000,Cash,completed
+ORD00015,2026-01-17,Gita,Payakumbuh,Webcam,Electronics,2,350000,TRANSFER,Cancelled
+ORD00016,2026-06-17,Fajar,Padang,USB Hub,Accessories,4,75000,cash,Cancelled
+ORD00017,2026-03-09,Hadi,Padang,Keyboard,Accessories,2,175000,Transfer,Cancelled
+ORD00018,2026-05-30,Eka,Pekanbaru,Monitor,Electronics,4,1800000,E-Wallet,Completed
+ORD00019,2026-01-24,Citra,Padang,SSD 512GB,Storage,1,750000,Cash,Completed
+ORD00020,2026-06-02,Citra,Padang,Monitor,Electronics,1,1800000,cash,completed
+ORD00021,2026-05-22,Hadi,Padang,Webcam,Electronics,1,350000,Cash,Cancelled
+ORD00022,2026-01-29,Eka,Pekanbaru,Headset,Electronics,3,250000,cash,Completed
+ORD00023,2026-03-09,Hadi,Padang,Laptop Stand,Accessories,5,150000,Transfer,Cancelled
+ORD00024,2026-06-13,Budi,Pekanbaru,Webcam,Electronics,5,350000,TRANSFER,Completed
+ORD00025,2026-02-11,Citra,Padang,Headset,Electronics,5,250000,TRANSFER,Completed
+ORD00026,2026-01-05,Fajar,Padang,SSD 512GB,Storage,1,750000,E-Wallet,completed
+ORD00027,2026-03-03,Dina,Bukittinggi,Laptop Stand,Accessories,5,150000,Cash,Completed
+ORD00028,2026-05-17,Hadi,Padang,Wireless Mouse,Accessories,2,85000,Transfer,Cancelled
+ORD00029,2026-03-09,Hadi,Padang,Keyboard,Accessories,5,175000,TRANSFER,completed
+ORD00030,2026-03-21,Dina,Bukittinggi,USB Hub,Accessories,4,75000,E-Wallet,completed
+ORD00031,2026-03-05,Hadi,Padang,Wireless Mouse,Accessories,2,85000,Cash,completed
+ORD00032,2026-05-31,Andi,Padang,USB Hub,Accessories,2,75000,Cash,Completed
+ORD00033,2026-01-18,Andi,Padang,USB Hub,Accessories,1,75000,E-Wallet,Completed
+ORD00034,2026-06-21,Dina,Bukittinggi,Webcam,Electronics,4,350000,Transfer,Cancelled
+ORD00035,2026-03-04,Citra,Padang,SSD 512GB,Storage,4,750000,cash,Completed
+ORD00036,2026-06-18,Budi,Pekanbaru,Wireless Mouse,Accessories,4,85000,E-Wallet,completed
+ORD00037,2026-01-14,Gita,Payakumbuh,SSD 512GB,Storage,1,750000,Cash,completed
+ORD00038,2026-03-05,Fajar,Padang,Wireless Mouse,Accessories,2,85000,Transfer,Cancelled
+ORD00039,2026-04-19,Hadi,Padang,Keyboard,Accessories,2,175000,E-Wallet,completed
+ORD00040,2026-04-24,Dina,Bukittinggi,Wireless Mouse,Accessories,5,85000,Cash,Completed
+ORD00041,2026-03-02,Andi,Padang,Wireless Mouse,Accessories,2,85000,cash,completed
+ORD00042,2026-04-13,Hadi,Padang,USB Hub,Accessories,1,75000,Transfer,completed
+ORD00043,2026-03-09,Andi,Padang,Monitor,Electronics,4,1800000,E-Wallet,completed
+ORD00044,2026-02-18,Hadi,Padang,Keyboard,Accessories,3,175000,Transfer,Completed
+ORD00045,2026-01-15,Andi,Padang,Headset,Electronics,1,250000,TRANSFER,completed
+ORD00046,2026-05-11,Citra,Padang,Laptop Stand,Accessories,1,150000,Transfer,Completed
+ORD00047,2026-04-14,Budi,Pekanbaru,USB Hub,Accessories,1,75000,TRANSFER,Completed
+ORD00048,2026-04-18,Andi,Padang,Wireless Mouse,Accessories,5,85000,TRANSFER,Cancelled
+ORD00049,2026-02-22,Fajar,Padang,Webcam,Electronics,3,350000,Transfer,completed
+ORD00050,2026-06-21,Gita,Payakumbuh,Keyboard,Accessories,3,175000,cash,completed
+ORD00051,2026-04-28,Budi,Pekanbaru,Laptop Stand,Accessories,5,150000,TRANSFER,Completed
+ORD00052,2026-05-10,Budi,Pekanbaru,USB Hub,Accessories,3,75000,Transfer,completed
+ORD00053,2026-04-05,Budi,Pekanbaru,USB Hub,Accessories,3,75000,Transfer,completed
+ORD00054,2026-06-20,Eka,Pekanbaru,Laptop Stand,Accessories,5,150000,E-Wallet,Cancelled
+ORD00055,2026-03-09,Budi,Pekanbaru,Keyboard,Accessories,1,175000,Cash,Cancelled
+ORD00056,2026-03-14,Citra,Padang,Webcam,Electronics,5,350000,Transfer,Cancelled
+ORD00057,2026-06-25,Fajar,Padang,USB Hub,Accessories,3,75000,TRANSFER,completed
+ORD00058,2026-01-24,Eka,Pekanbaru,Laptop Stand,Accessories,4,150000,E-Wallet,Completed
+ORD00059,2026-02-03,Andi,Padang,Headset,Electronics,3,250000,Transfer,Cancelled
+ORD00060,2026-05-24,Hadi,Padang,Monitor,Electronics,1,1800000,Cash,Completed
+ORD00061,2026-04-05,Citra,Padang,Laptop Stand,Accessories,5,150000,TRANSFER,Completed
+ORD00062,2026-01-11,Gita,Payakumbuh,Keyboard,Accessories,3,175000,E-Wallet,Completed
+ORD00063,2026-06-24,Fajar,Padang,USB Hub,Accessories,2,75000,Cash,completed
+ORD00064,2026-03-02,Gita,Payakumbuh,Keyboard,Accessories,2,175000,Transfer,completed
+ORD00065,2026-03-27,Andi,Padang,Keyboard,Accessories,4,175000,Transfer,completed
+ORD00066,2026-04-08,Citra,Padang,Wireless Mouse,Accessories,1,85000,cash,Completed
+ORD00067,2026-03-31,Dina,Bukittinggi,SSD 512GB,Storage,3,750000,Transfer,Completed
+ORD00068,2026-04-13,Andi,Padang,USB Hub,Accessories,3,75000,E-Wallet,Completed
+ORD00069,2026-06-14,Eka,Pekanbaru,Headset,Electronics,5,250000,cash,Cancelled
+ORD00070,2026-01-30,Fajar,Padang,Laptop Stand,Accessories,3,150000,Transfer,Cancelled
+ORD00071,2026-01-28,Eka,Pekanbaru,Laptop Stand,Accessories,5,150000,cash,completed
+ORD00072,2026-06-05,Fajar,Padang,Monitor,Electronics,5,1800000,Cash,completed
+ORD00073,2026-01-12,Dina,Bukittinggi,Webcam,Electronics,4,350000,Cash,Cancelled
+ORD00074,2026-04-21,Dina,Bukittinggi,Headset,Electronics,1,250000,E-Wallet,Cancelled
+ORD00075,2026-03-18,Fajar,Padang,Wireless Mouse,Accessories,5,85000,E-Wallet,Cancelled
+ORD00076,2026-04-14,Gita,Payakumbuh,Headset,Electronics,3,250000,TRANSFER,Completed
+ORD00077,2026-06-20,Dina,Bukittinggi,Monitor,Electronics,4,1800000,Transfer,Cancelled
+ORD00078,2026-05-21,Eka,Pekanbaru,Monitor,Electronics,1,1800000,E-Wallet,completed
+ORD00079,2026-05-29,Dina,Bukittinggi,Monitor,Electronics,5,1800000,E-Wallet,completed
+ORD00080,2026-06-22,Hadi,Padang,SSD 512GB,Storage,2,750000,TRANSFER,completed
+ORD00081,2026-03-14,Citra,Padang,Wireless Mouse,Accessories,5,85000,TRANSFER,completed
+ORD00082,2026-06-22,Budi,Pekanbaru,USB Hub,Accessories,3,75000,Transfer,Completed
+ORD00083,2026-01-12,Citra,,Laptop Stand,Accessories,2,150000,cash,Cancelled
+ORD00084,2026-04-17,Budi,Pekanbaru,SSD 512GB,Storage,5,750000,Transfer,Cancelled
+ORD00085,2026-04-13,Gita,Payakumbuh,SSD 512GB,Storage,2,750000,Transfer,Cancelled
+ORD00086,2026-04-19,Andi,Padang,Wireless Mouse,Accessories,2,85000,Transfer,Cancelled
+ORD00087,2026-05-23,Hadi,Padang,Laptop Stand,Accessories,2,150000,Cash,completed
+ORD00088,2026-06-20,Citra,Padang,SSD 512GB,Storage,5,750000,TRANSFER,Cancelled
+ORD00089,2026-06-06,Fajar,Padang,SSD 512GB,Storage,5,750000,cash,Cancelled
+ORD00090,2026-05-02,Hadi,Padang,Keyboard,Accessories,4,175000,E-Wallet,Completed
+ORD00091,2026-06-10,Eka,Pekanbaru,SSD 512GB,Storage,2,750000,E-Wallet,completed
+ORD00092,2026-03-02,Budi,Pekanbaru,Webcam,Electronics,3,350000,E-Wallet,completed
+ORD00093,2026-02-08,Budi,Pekanbaru,Keyboard,Accessories,2,175000,cash,Cancelled
+ORD00094,2026-01-17,Citra,Padang,USB Hub,Accessories,4,75000,cash,completed
+ORD00095,2026-01-16,Hadi,Padang,Monitor,Electronics,2,1800000,cash,completed
+ORD00096,2026-05-03,Andi,Padang,Monitor,Electronics,1,1800000,E-Wallet,completed
+ORD00097,2026-05-18,Gita,Payakumbuh,Monitor,Electronics,-1,1800000,TRANSFER,Completed
+ORD00098,2026-03-11,Hadi,Padang,USB Hub,Accessories,4,75000,cash,Completed
+ORD00099,2026-06-21,Gita,Payakumbuh,Headset,Electronics,4,250000,Transfer,completed
+ORD00100,2026-04-11,Citra,Padang,Laptop Stand,Accessories,5,150000,TRANSFER,Cancelled
+ORD00101,2026-06-14,Andi,Padang,Wireless Mouse,Accessories,4,85000,Transfer,completed
+ORD00102,2026-03-08,Citra,Padang,Laptop Stand,Accessories,4,150000,E-Wallet,Completed
+ORD00103,2026-03-28,Hadi,Padang,Headset,Electronics,4,250000,E-Wallet,completed
+ORD00104,2026-05-01,Eka,Pekanbaru,Wireless Mouse,Accessories,1,85000,TRANSFER,Completed
+ORD00105,2026-06-16,Fajar,Padang,USB Hub,Accessories,1,75000,Cash,Completed
+ORD00106,2026-01-06,Dina,Bukittinggi,USB Hub,Accessories,5,75000,Transfer,Completed
+ORD00107,2026-06-21,Citra,Padang,SSD 512GB,Storage,1,750000,TRANSFER,Completed
+ORD00108,2026-04-05,Hadi,Padang,Webcam,Electronics,2,350000,TRANSFER,Cancelled
+ORD00109,2026-03-21,Budi,Pekanbaru,Keyboard,Accessories,1,175000,TRANSFER,Completed
+ORD00110,2026-04-12,Eka,Pekanbaru,Monitor,Electronics,2,1800000,Cash,Cancelled
+ORD00111,2026-06-28,Dina,Bukittinggi,Wireless Mouse,Accessories,3,85000,TRANSFER,Completed
+ORD00112,2026-05-17,Andi,Padang,Headset,Electronics,4,250000,E-Wallet,Completed
+ORD00113,2026-04-18,Fajar,Padang,Laptop Stand,Accessories,4,150000,Cash,completed
+ORD00114,2026-02-09,Fajar,Padang,SSD 512GB,Storage,4,750000,Transfer,Cancelled
+ORD00115,2026-04-30,Eka,Pekanbaru,SSD 512GB,Storage,4,750000,TRANSFER,completed
+ORD00116,2026-01-23,Fajar,Padang,USB Hub,Accessories,3,75000,cash,Completed
+ORD00117,2026-03-28,Hadi,Padang,Monitor,Electronics,1,1800000,cash,completed
+ORD00118,2026-02-24,Citra,Padang,SSD 512GB,Storage,3,750000,E-Wallet,completed
+ORD00119,2026-05-23,Eka,Pekanbaru,Webcam,Electronics,1,350000,TRANSFER,Completed
+ORD00120,2026-04-15,Budi,Pekanbaru,USB Hub,Accessories,4,75000,TRANSFER,Completed
+ORD00121,2026-04-25,Hadi,Padang,SSD 512GB,Storage,1,750000,Cash,completed
+ORD00122,2026-06-27,Dina,Bukittinggi,Monitor,Electronics,2,1800000,E-Wallet,Cancelled
+ORD00123,2026-05-22,Fajar,Padang,SSD 512GB,Storage,5,750000,E-Wallet,completed
+ORD00124,2026-06-29,Fajar,Padang,Headset,Electronics,4,250000,E-Wallet,completed
+ORD00125,2026-01-31,Eka,Pekanbaru,USB Hub,Accessories,2,75000,E-Wallet,Completed
+ORD00126,2026-02-25,Citra,Padang,USB Hub,Accessories,4,75000,E-Wallet,Cancelled
+ORD00127,2026-02-19,Eka,Pekanbaru,Wireless Mouse,Accessories,3,85000,Transfer,completed
+ORD00128,2026-01-04,Citra,Padang,Webcam,Electronics,5,350000,Transfer,completed
+ORD00129,2026-05-22,Andi,Padang,Laptop Stand,Accessories,3,150000,Transfer,Cancelled
+ORD00130,2026-01-04,Hadi,Padang,Wireless Mouse,Accessories,5,85000,E-Wallet,completed
+ORD00131,2026-03-29,Hadi,Padang,SSD 512GB,Storage,2,750000,Cash,completed
+ORD00132,2026-01-17,Hadi,Padang,Wireless Mouse,Accessories,4,85000,cash,Completed
+ORD00133,2026-02-08,Andi,Padang,Keyboard,Accessories,5,175000,E-Wallet,Completed
+ORD00134,2026-05-23,Dina,Bukittinggi,Wireless Mouse,Accessories,4,85000,TRANSFER,Cancelled
+ORD00135,2026-04-26,Dina,Bukittinggi,Monitor,Electronics,4,1800000,E-Wallet,Cancelled
+ORD00136,2026-05-26,Gita,Payakumbuh,Webcam,Electronics,5,350000,Cash,Cancelled
+ORD00137,2026-06-10,Budi,Pekanbaru,USB Hub,Accessories,2,75000,E-Wallet,Cancelled
+ORD00138,2026-03-03,Budi,Pekanbaru,Keyboard,Accessories,2,175000,TRANSFER,Completed
+ORD00139,2026-04-15,Citra,Padang,Laptop Stand,Accessories,4,150000,TRANSFER,completed
+ORD00140,2026-03-01,Eka,Pekanbaru,Laptop Stand,Accessories,3,150000,E-Wallet,Cancelled
+ORD00141,2026-06-25,Hadi,Padang,Wireless Mouse,Accessories,2,85000,E-Wallet,Cancelled
+ORD00142,2026-01-30,Dina,Bukittinggi,Monitor,Electronics,5,1800000,Transfer,Cancelled
+ORD00143,2026-02-06,Citra,Padang,Webcam,Electronics,1,350000,Cash,Completed
+ORD00144,2026-04-23,Eka,Pekanbaru,Webcam,Electronics,1,350000,cash,Cancelled
+ORD00145,2026-03-11,Eka,Pekanbaru,Monitor,Electronics,5,1800000,TRANSFER,completed
+ORD00146,2026-06-03,Hadi,Padang,Wireless Mouse,Accessories,1,85000,cash,Cancelled
+ORD00147,2026-01-07,Fajar,Padang,Webcam,Electronics,1,350000,Transfer,Cancelled
+ORD00148,2026-05-28,Andi,Padang,Webcam,Electronics,1,350000,Transfer,completed
+ORD00149,2026-02-16,Hadi,Padang,Webcam,Electronics,5,350000,cash,Cancelled
+ORD00150,2026-05-01,Hadi,Padang,Wireless Mouse,Accessories,3,85000,cash,completed
+ORD00151,2026-02-11,Fajar,Padang,Wireless Mouse,Accessories,3,85000,cash,Cancelled
+ORD00152,2026-06-19,Hadi,Padang,Webcam,Electronics,4,350000,TRANSFER,Completed
+ORD00153,2026-03-22,Hadi,Padang,Wireless Mouse,Accessories,3,85000,E-Wallet,Completed
+ORD00154,2026-06-18,Gita,Payakumbuh,Laptop Stand,Accessories,5,150000,cash,completed
+ORD00155,2026-05-13,Andi,Padang,USB Hub,Accessories,3,75000,TRANSFER,completed
+ORD00156,2026-02-22,Hadi,Padang,Laptop Stand,Accessories,3,150000,TRANSFER,Completed
+ORD00157,2026-06-28,Eka,Pekanbaru,SSD 512GB,Storage,4,750000,Cash,Completed
+ORD00158,2026-03-21,Dina,Bukittinggi,Keyboard,Accessories,5,175000,Cash,Cancelled
+ORD00159,2026-02-27,Gita,Payakumbuh,Wireless Mouse,Accessories,1,85000,cash,Completed
+ORD00160,2026-03-16,Citra,Padang,SSD 512GB,Storage,5,750000,E-Wallet,completed
+ORD00161,2026-03-04,Hadi,Padang,SSD 512GB,Storage,4,750000,TRANSFER,Completed
+ORD00162,2026-06-03,Gita,Payakumbuh,USB Hub,Accessories,5,75000,Transfer,Completed
+ORD00163,2026-03-29,Eka,Pekanbaru,Monitor,Electronics,5,1800000,E-Wallet,Completed
+ORD00164,2026-05-31,Eka,Pekanbaru,Webcam,Electronics,5,350000,cash,Completed
+ORD00165,2026-03-30,Hadi,Padang,SSD 512GB,Storage,3,750000,TRANSFER,Cancelled
+ORD00166,2026-03-24,Gita,,SSD 512GB,Storage,2,750000,Transfer,Cancelled
+ORD00167,2026-04-16,Gita,Payakumbuh,USB Hub,Accessories,1,75000,E-Wallet,Cancelled
+ORD00168,2026-04-09,Hadi,Padang,Monitor,Electronics,2,1800000,cash,Completed
+ORD00169,2026-01-26,Citra,Padang,Headset,Electronics,4,250000,Cash,Cancelled
+ORD00170,2026-02-06,Hadi,Padang,Laptop Stand,Accessories,4,150000,Transfer,Completed
+ORD00171,2026-03-28,Hadi,Padang,Webcam,Electronics,5,350000,cash,Cancelled
+ORD00172,2026-06-22,Budi,Pekanbaru,Headset,Electronics,5,250000,cash,completed
+ORD00173,2026-06-08,Hadi,Padang,Laptop Stand,Accessories,1,150000,Transfer,Cancelled
+ORD00174,2026-01-24,Eka,Pekanbaru,USB Hub,Accessories,4,75000,Cash,Cancelled
+ORD00175,2026-02-12,Budi,Pekanbaru,SSD 512GB,Storage,3,750000,Cash,Completed
+ORD00176,2026-03-17,Fajar,Padang,Laptop Stand,Accessories,3,150000,E-Wallet,completed
+ORD00177,2026-05-16,Citra,Padang,USB Hub,Accessories,4,75000,TRANSFER,Cancelled
+ORD00178,2026-02-14,Citra,Padang,Keyboard,Accessories,1,175000,TRANSFER,completed
+ORD00179,2026-05-30,Dina,Bukittinggi,SSD 512GB,Storage,2,750000,Transfer,completed
+ORD00180,2026-03-07,Eka,Pekanbaru,SSD 512GB,Storage,1,750000,cash,completed
+ORD00181,2026-04-24,Citra,Padang,Wireless Mouse,Accessories,3,85000,TRANSFER,completed
+ORD00182,2026-04-27,Gita,Payakumbuh,Webcam,Electronics,3,350000,Transfer,completed
+ORD00183,2026-03-02,Hadi,Padang,Wireless Mouse,Accessories,4,85000,TRANSFER,completed
+ORD00184,2026-01-06,Eka,Pekanbaru,Webcam,Electronics,4,350000,E-Wallet,Completed
+ORD00185,2026-03-15,Andi,Padang,SSD 512GB,Storage,2,750000,TRANSFER,completed
+ORD00186,2026-06-08,Dina,Bukittinggi,USB Hub,Accessories,3,75000,Transfer,Cancelled
+ORD00187,2026-03-21,Budi,Pekanbaru,Laptop Stand,Accessories,4,150000,Cash,Cancelled
+ORD00188,2026-01-24,Fajar,Padang,Keyboard,Accessories,3,175000,E-Wallet,Cancelled
+ORD00189,2026-02-21,Gita,Payakumbuh,Keyboard,Accessories,2,175000,TRANSFER,completed
+ORD00190,2026-03-07,Eka,Pekanbaru,Keyboard,Accessories,4,175000,E-Wallet,Cancelled
+ORD00191,2026-04-30,Fajar,Padang,Wireless Mouse,Accessories,1,85000,Transfer,Completed
+ORD00192,2026-01-24,Gita,Payakumbuh,Headset,Electronics,4,250000,Cash,completed
+ORD00193,2026-04-05,Budi,Pekanbaru,SSD 512GB,Storage,3,750000,TRANSFER,completed
+ORD00194,2026-06-22,Fajar,Padang,Wireless Mouse,Accessories,-1,85000,cash,Completed
+ORD00195,2026-06-15,Fajar,Padang,USB Hub,Accessories,1,75000,cash,Cancelled
+ORD00196,2026-01-30,Eka,Pekanbaru,Monitor,Electronics,2,1800000,Cash,Completed
+ORD00197,2026-01-30,Eka,Pekanbaru,SSD 512GB,Storage,1,750000,Transfer,Cancelled
+ORD00198,2026-04-27,Citra,Padang,Monitor,Electronics,3,1800000,TRANSFER,completed
+ORD00199,2026-06-17,Citra,Padang,Monitor,Electronics,1,1800000,cash,Cancelled
+ORD00200,2026-01-09,Gita,Payakumbuh,Webcam,Electronics,3,350000,Transfer,completed
+ORD00201,2026-04-03,Hadi,Padang,USB Hub,Accessories,1,75000,E-Wallet,Cancelled
+ORD00202,2026-04-12,Fajar,Padang,Laptop Stand,Accessories,3,150000,Transfer,Completed
+ORD00203,2026-06-19,Hadi,Padang,Wireless Mouse,Accessories,2,85000,TRANSFER,Completed
+ORD00204,2026-03-04,Andi,Padang,Headset,Electronics,2,250000,TRANSFER,Completed
+ORD00205,2026-05-31,Budi,Pekanbaru,USB Hub,Accessories,2,75000,Transfer,completed
+ORD00206,2026-03-12,Citra,Padang,Laptop Stand,Accessories,2,150000,Transfer,Cancelled
+ORD00207,2026-01-29,Eka,Pekanbaru,Keyboard,Accessories,1,175000,Transfer,Completed
+ORD00208,2026-05-31,Fajar,Padang,USB Hub,Accessories,3,75000,Cash,Completed
+ORD00209,2026-02-02,Eka,Pekanbaru,Laptop Stand,Accessories,4,150000,TRANSFER,Completed
+ORD00210,2026-04-25,Budi,Pekanbaru,SSD 512GB,Storage,3,750000,TRANSFER,Cancelled
+ORD00211,2026-05-09,Budi,Pekanbaru,SSD 512GB,Storage,2,750000,TRANSFER,Completed
+ORD00212,2026-06-14,Eka,Pekanbaru,SSD 512GB,Storage,1,750000,Cash,completed
+ORD00213,2026-06-25,Gita,Payakumbuh,Monitor,Electronics,1,1800000,cash,Cancelled
+ORD00214,2026-01-21,Hadi,Padang,Wireless Mouse,Accessories,3,85000,TRANSFER,Completed
+ORD00215,2026-03-12,Budi,Pekanbaru,Keyboard,Accessories,5,175000,TRANSFER,Cancelled
+ORD00216,2026-06-02,Fajar,Padang,Monitor,Electronics,5,1800000,E-Wallet,completed
+ORD00217,2026-06-29,Gita,Payakumbuh,Wireless Mouse,Accessories,1,85000,TRANSFER,Cancelled
+ORD00218,2026-04-26,Dina,Bukittinggi,Monitor,Electronics,2,1800000,cash,completed
+ORD00219,2026-04-17,Hadi,Padang,Monitor,Electronics,1,1800000,E-Wallet,completed
+ORD00220,2026-04-06,Fajar,Padang,Webcam,Electronics,2,350000,cash,Completed
+ORD00221,2026-01-24,Budi,Pekanbaru,Wireless Mouse,Accessories,4,85000,Cash,Cancelled
+ORD00222,2026-05-23,Fajar,Padang,Keyboard,Accessories,1,175000,TRANSFER,Cancelled
+ORD00223,2026-04-16,Fajar,Padang,Wireless Mouse,Accessories,3,85000,cash,Cancelled
+ORD00224,2026-06-03,Andi,Padang,Webcam,Electronics,3,350000,E-Wallet,Completed
+ORD00225,2026-06-18,Dina,Bukittinggi,Keyboard,Accessories,4,175000,Transfer,Completed
+ORD00226,2026-01-30,Fajar,Padang,Headset,Electronics,3,250000,TRANSFER,Completed
+ORD00227,2026-06-05,Gita,Payakumbuh,Laptop Stand,Accessories,3,150000,Cash,Completed
+ORD00228,2026-03-28,Eka,Pekanbaru,Webcam,Electronics,3,350000,Cash,Completed
+ORD00229,2026-01-18,Citra,Padang,Monitor,Electronics,2,1800000,Cash,Completed
+ORD00230,2026-04-18,Dina,Bukittinggi,Monitor,Electronics,4,1800000,E-Wallet,Completed
+ORD00231,2026-03-25,Fajar,Padang,Webcam,Electronics,5,350000,TRANSFER,Completed
+ORD00232,2026-02-10,Andi,Padang,Keyboard,Accessories,5,175000,Cash,Cancelled
+ORD00233,2026-04-24,Budi,Pekanbaru,Webcam,Electronics,4,350000,cash,Cancelled
+ORD00234,2026-03-11,Hadi,Padang,Monitor,Electronics,2,1800000,TRANSFER,Completed
+ORD00235,2026-01-29,Fajar,Padang,Monitor,Electronics,3,1800000,TRANSFER,completed
+ORD00236,2026-02-26,Eka,Pekanbaru,Laptop Stand,Accessories,4,150000,TRANSFER,Completed
+ORD00237,2026-03-19,Andi,Padang,USB Hub,Accessories,2,75000,Transfer,completed
+ORD00238,2026-01-31,Eka,Pekanbaru,Headset,Electronics,1,250000,cash,Cancelled
+ORD00239,2026-02-03,Gita,Payakumbuh,Keyboard,Accessories,4,175000,TRANSFER,Cancelled
+ORD00240,2026-01-19,Dina,Bukittinggi,Headset,Electronics,4,250000,Cash,completed
+ORD00241,2026-01-20,Andi,Padang,SSD 512GB,Storage,3,750000,TRANSFER,completed
+ORD00242,2026-03-16,Gita,Payakumbuh,Monitor,Electronics,1,1800000,cash,Completed
+ORD00243,2026-06-08,Fajar,Padang,Keyboard,Accessories,4,175000,E-Wallet,Completed
+ORD00244,2026-03-04,Gita,Payakumbuh,Wireless Mouse,Accessories,4,85000,TRANSFER,completed
+ORD00245,2026-03-21,Budi,Pekanbaru,Monitor,Electronics,3,1800000,Transfer,completed
+ORD00246,2026-05-11,Citra,Padang,Wireless Mouse,Accessories,1,85000,TRANSFER,Cancelled
+ORD00247,2026-03-31,Dina,Bukittinggi,Headset,Electronics,2,250000,Transfer,Completed
+ORD00248,2026-02-20,Citra,Padang,Webcam,Electronics,2,350000,TRANSFER,Completed
+ORD00249,2026-06-10,Budi,,Keyboard,Accessories,4,175000,cash,Cancelled
+ORD00250,2026-06-10,Hadi,Padang,Headset,Electronics,3,250000,Transfer,completed
+ORD00251,2026-04-24,Budi,Pekanbaru,SSD 512GB,Storage,3,750000,E-Wallet,Cancelled
+ORD00252,2026-05-10,Andi,Padang,Headset,Electronics,1,250000,E-Wallet,completed
+ORD00253,2026-01-15,Hadi,Padang,Laptop Stand,Accessories,3,150000,E-Wallet,Completed
+ORD00254,2026-04-29,Budi,Pekanbaru,Monitor,Electronics,5,1800000,TRANSFER,Cancelled
+ORD00255,2026-05-27,Andi,Padang,SSD 512GB,Storage,2,750000,E-Wallet,Cancelled
+ORD00256,2026-01-16,Hadi,Padang,Keyboard,Accessories,4,175000,Cash,completed
+ORD00257,2026-01-11,Budi,Pekanbaru,Keyboard,Accessories,2,175000,cash,completed
+ORD00258,2026-04-06,Citra,Padang,Headset,Electronics,3,250000,cash,completed
+ORD00259,2026-06-11,Fajar,Padang,Laptop Stand,Accessories,3,150000,Cash,completed
+ORD00260,2026-03-14,Budi,Pekanbaru,Monitor,Electronics,3,1800000,TRANSFER,Completed
+ORD00261,2026-05-30,Fajar,Padang,Wireless Mouse,Accessories,2,85000,E-Wallet,completed
+ORD00262,2026-06-02,Gita,Payakumbuh,Keyboard,Accessories,1,175000,E-Wallet,Cancelled
+ORD00263,2026-02-02,Gita,Payakumbuh,Headset,Electronics,5,250000,Cash,Cancelled
+ORD00264,2026-01-05,Gita,Payakumbuh,Headset,Electronics,3,250000,E-Wallet,Completed
+ORD00265,2026-05-05,Dina,Bukittinggi,Headset,Electronics,2,250000,Transfer,Completed
+ORD00266,2026-03-17,Citra,Padang,Wireless Mouse,Accessories,1,85000,TRANSFER,Cancelled
+ORD00267,2026-06-08,Andi,Padang,Headset,Electronics,2,250000,TRANSFER,completed
+ORD00268,2026-02-16,Citra,Padang,Keyboard,Accessories,5,175000,Transfer,Cancelled
+ORD00269,2026-04-16,Hadi,Padang,Laptop Stand,Accessories,3,150000,Transfer,completed
+ORD00270,2026-03-01,Eka,Pekanbaru,SSD 512GB,Storage,5,750000,Transfer,completed
+ORD00271,2026-04-05,Hadi,Padang,USB Hub,Accessories,5,75000,cash,completed
+ORD00272,2026-05-09,Eka,Pekanbaru,Monitor,Electronics,5,1800000,cash,Completed
+ORD00273,2026-03-06,Dina,Bukittinggi,Keyboard,Accessories,1,175000,cash,completed
+ORD00274,2026-03-14,Budi,Pekanbaru,Wireless Mouse,Accessories,1,85000,Transfer,completed
+ORD00275,2026-04-22,Hadi,Padang,Keyboard,Accessories,1,175000,Transfer,completed
+ORD00276,2026-04-17,Fajar,Padang,Laptop Stand,Accessories,1,150000,cash,Cancelled
+ORD00277,2026-04-09,Fajar,Padang,USB Hub,Accessories,1,75000,E-Wallet,Completed
+ORD00278,2026-01-26,Andi,Padang,Headset,Electronics,3,250000,Transfer,Completed
+ORD00279,2026-05-01,Andi,Padang,Webcam,Electronics,2,350000,cash,completed
+ORD00280,2026-01-05,Andi,Padang,Wireless Mouse,Accessories,3,85000,Transfer,Completed
+ORD00281,2026-03-15,Gita,Payakumbuh,Wireless Mouse,Accessories,2,85000,E-Wallet,Completed
+ORD00282,2026-04-18,Andi,Padang,USB Hub,Accessories,5,75000,cash,Completed
+ORD00283,2026-06-02,Budi,Pekanbaru,SSD 512GB,Storage,5,750000,Cash,Cancelled
+ORD00284,2026-03-16,Dina,Bukittinggi,Keyboard,Accessories,4,175000,Cash,Cancelled
+ORD00285,2026-05-27,Fajar,Padang,USB Hub,Accessories,4,75000,Transfer,Cancelled
+ORD00286,2026-01-18,Budi,Pekanbaru,Headset,Electronics,5,250000,TRANSFER,Cancelled
+ORD00287,2026-05-01,Andi,Padang,Monitor,Electronics,1,1800000,cash,completed
+ORD00288,2026-04-02,Eka,Pekanbaru,Laptop Stand,Accessories,1,150000,E-Wallet,Completed
+ORD00289,2026-02-04,Budi,Pekanbaru,Headset,Electronics,1,250000,E-Wallet,Cancelled
+ORD00290,2026-06-25,Fajar,Padang,Keyboard,Accessories,4,175000,cash,Cancelled
+ORD00291,2026-01-17,Citra,Padang,Keyboard,Accessories,-1,175000,Cash,completed
+ORD00292,2026-02-21,Dina,Bukittinggi,Laptop Stand,Accessories,1,150000,E-Wallet,completed
+ORD00293,2026-03-06,Gita,Payakumbuh,SSD 512GB,Storage,1,750000,Transfer,completed
+ORD00294,2026-06-17,Fajar,Padang,Laptop Stand,Accessories,3,150000,E-Wallet,Completed
+ORD00295,2026-04-13,Fajar,Padang,Monitor,Electronics,4,1800000,cash,completed
+ORD00296,2026-06-27,Citra,Padang,SSD 512GB,Storage,4,750000,E-Wallet,Cancelled
+ORD00297,2026-04-19,Eka,Pekanbaru,Wireless Mouse,Accessories,1,85000,cash,Cancelled
+ORD00298,2026-03-24,Citra,Padang,Webcam,Electronics,1,350000,Cash,completed
+ORD00299,2026-04-25,Eka,Pekanbaru,Webcam,Electronics,5,350000,cash,Completed
+ORD00300,2026-04-25,Hadi,Padang,Headset,Electronics,1,250000,E-Wallet,Cancelled
+ORD00301,2026-06-13,Gita,Payakumbuh,Webcam,Electronics,1,350000,Cash,Cancelled
+ORD00302,2026-05-12,Gita,Payakumbuh,Headset,Electronics,2,250000,Cash,Completed
+ORD00303,2026-02-02,Hadi,Padang,Laptop Stand,Accessories,1,150000,Transfer,Cancelled
+ORD00304,2026-04-09,Fajar,Padang,Headset,Electronics,5,250000,Cash,Cancelled
+ORD00305,2026-04-05,Citra,Padang,SSD 512GB,Storage,3,750000,cash,Completed
+ORD00306,2026-04-12,Citra,Padang,Headset,Electronics,3,250000,E-Wallet,Completed
+ORD00307,2026-02-17,Budi,Pekanbaru,Laptop Stand,Accessories,4,150000,TRANSFER,completed
+ORD00308,2026-03-08,Budi,Pekanbaru,Webcam,Electronics,4,350000,Transfer,Cancelled
+ORD00309,2026-02-21,Eka,Pekanbaru,SSD 512GB,Storage,1,750000,Transfer,Completed
+ORD00310,2026-04-24,Hadi,Padang,Keyboard,Accessories,1,175000,E-Wallet,Cancelled
+ORD00311,2026-05-21,Fajar,Padang,Wireless Mouse,Accessories,5,85000,E-Wallet,completed
+ORD00312,2026-04-03,Citra,Padang,Keyboard,Accessories,5,175000,Transfer,Completed
+ORD00313,2026-03-02,Dina,Bukittinggi,Keyboard,Accessories,4,175000,Cash,completed
+ORD00314,2026-05-22,Fajar,Padang,SSD 512GB,Storage,2,750000,TRANSFER,Completed
+ORD00315,2026-04-12,Budi,Pekanbaru,Webcam,Electronics,4,350000,TRANSFER,completed
+ORD00316,2026-02-02,Gita,Payakumbuh,Wireless Mouse,Accessories,3,85000,Cash,completed
+ORD00317,2026-02-02,Hadi,Padang,Headset,Electronics,5,250000,TRANSFER,Completed
+ORD00318,2026-05-09,Citra,Padang,Monitor,Electronics,1,1800000,Cash,Cancelled
+ORD00319,2026-02-12,Citra,Padang,Webcam,Electronics,2,350000,E-Wallet,Cancelled
+ORD00320,2026-05-13,Dina,Bukittinggi,Headset,Electronics,3,250000,Cash,completed
+ORD00321,2026-02-02,Dina,Bukittinggi,Webcam,Electronics,3,350000,TRANSFER,Cancelled
+ORD00322,2026-06-01,Budi,Pekanbaru,Keyboard,Accessories,5,175000,Transfer,Completed
+ORD00323,2026-01-08,Fajar,Padang,Laptop Stand,Accessories,1,150000,Cash,Cancelled
+ORD00324,2026-05-27,Eka,Pekanbaru,USB Hub,Accessories,4,75000,TRANSFER,Cancelled
+ORD00325,2026-06-10,Andi,Padang,SSD 512GB,Storage,5,750000,E-Wallet,Cancelled
+ORD00326,2026-03-04,Eka,Pekanbaru,SSD 512GB,Storage,4,750000,E-Wallet,completed
+ORD00327,2026-02-10,Budi,Pekanbaru,Laptop Stand,Accessories,4,150000,cash,completed
+ORD00328,2026-03-29,Hadi,Padang,USB Hub,Accessories,5,75000,Transfer,completed
+ORD00329,2026-04-13,Fajar,Padang,Headset,Electronics,2,250000,E-Wallet,Cancelled
+ORD00330,2026-03-03,Budi,Pekanbaru,Headset,Electronics,4,250000,Cash,completed
+ORD00331,2026-02-06,Hadi,Padang,USB Hub,Accessories,1,75000,Cash,completed
+ORD00332,2026-03-05,Gita,,Monitor,Electronics,2,1800000,E-Wallet,Cancelled
+ORD00333,2026-02-10,Fajar,Padang,USB Hub,Accessories,4,75000,TRANSFER,completed
+ORD00334,2026-05-08,Hadi,Padang,Webcam,Electronics,1,350000,Cash,completed
+ORD00335,2026-02-25,Hadi,Padang,USB Hub,Accessories,5,75000,E-Wallet,Completed
+ORD00336,2026-05-07,Andi,Padang,Webcam,Electronics,5,350000,cash,completed
+ORD00337,2026-04-21,Andi,Padang,Wireless Mouse,Accessories,2,85000,E-Wallet,Cancelled
+ORD00338,2026-04-04,Fajar,Padang,Monitor,Electronics,1,1800000,cash,Completed
+ORD00339,2026-05-22,Dina,Bukittinggi,Headset,Electronics,3,250000,Cash,completed
+ORD00340,2026-06-09,Hadi,Padang,Webcam,Electronics,5,350000,Cash,Completed
+ORD00341,2026-04-06,Budi,Pekanbaru,Monitor,Electronics,3,1800000,TRANSFER,completed
+ORD00342,2026-06-04,Citra,Padang,USB Hub,Accessories,5,75000,cash,Cancelled
+ORD00343,2026-01-10,Andi,Padang,Laptop Stand,Accessories,2,150000,E-Wallet,completed
+ORD00344,2026-06-05,Hadi,Padang,Keyboard,Accessories,5,175000,Transfer,completed
+ORD00345,2026-04-11,Fajar,Padang,Keyboard,Accessories,5,175000,E-Wallet,Cancelled
+ORD00346,2026-05-25,Fajar,Padang,SSD 512GB,Storage,3,750000,cash,Completed
+ORD00347,2026-06-22,Fajar,Padang,Headset,Electronics,1,250000,cash,Cancelled
+ORD00348,2026-06-02,Eka,Pekanbaru,Laptop Stand,Accessories,4,150000,E-Wallet,Cancelled
+ORD00349,2026-05-30,Dina,Bukittinggi,Laptop Stand,Accessories,4,150000,Transfer,Cancelled
+ORD00350,2026-06-24,Gita,Payakumbuh,Keyboard,Accessories,2,175000,Cash,Cancelled
+ORD00351,2026-01-05,Budi,Pekanbaru,USB Hub,Accessories,4,75000,E-Wallet,completed
+ORD00352,2026-06-26,Citra,Padang,Monitor,Electronics,2,1800000,cash,Cancelled
+ORD00353,2026-06-30,Hadi,Padang,Laptop Stand,Accessories,2,150000,TRANSFER,Completed
+ORD00354,2026-05-15,Fajar,Padang,SSD 512GB,Storage,4,750000,E-Wallet,Completed
+ORD00355,2026-05-20,Hadi,Padang,Headset,Electronics,3,250000,E-Wallet,Cancelled
+ORD00356,2026-03-05,Hadi,Padang,USB Hub,Accessories,3,75000,TRANSFER,completed
+ORD00357,2026-03-15,Dina,Bukittinggi,Webcam,Electronics,2,350000,cash,completed
+ORD00358,2026-05-24,Hadi,Padang,Headset,Electronics,3,250000,E-Wallet,Completed
+ORD00359,2026-03-30,Gita,Payakumbuh,Monitor,Electronics,2,1800000,E-Wallet,Completed
+ORD00360,2026-03-30,Eka,Pekanbaru,Wireless Mouse,Accessories,4,85000,E-Wallet,Cancelled
+ORD00361,2026-02-21,Hadi,Padang,USB Hub,Accessories,5,75000,E-Wallet,Cancelled
+ORD00362,2026-01-28,Eka,Pekanbaru,Keyboard,Accessories,5,175000,TRANSFER,Completed
+ORD00363,2026-06-21,Dina,Bukittinggi,Laptop Stand,Accessories,5,150000,Transfer,Cancelled
+ORD00364,2026-01-26,Dina,Bukittinggi,Laptop Stand,Accessories,4,150000,E-Wallet,Cancelled
+ORD00365,2026-06-24,Hadi,Padang,Wireless Mouse,Accessories,2,85000,Cash,Cancelled
+ORD00366,2026-06-17,Citra,Padang,Monitor,Electronics,4,1800000,cash,Cancelled
+ORD00367,2026-03-24,Dina,Bukittinggi,Webcam,Electronics,3,350000,Cash,Completed
+ORD00368,2026-02-14,Dina,Bukittinggi,Laptop Stand,Accessories,4,150000,Transfer,Completed
+ORD00369,2026-02-17,Gita,Payakumbuh,SSD 512GB,Storage,3,750000,Cash,Completed
+ORD00370,2026-03-27,Eka,Pekanbaru,Wireless Mouse,Accessories,3,85000,cash,Cancelled
+ORD00371,2026-05-10,Hadi,Padang,Keyboard,Accessories,4,175000,E-Wallet,Completed
+ORD00372,2026-02-11,Budi,Pekanbaru,Headset,Electronics,4,250000,E-Wallet,Cancelled
+ORD00373,2026-03-28,Citra,Padang,Laptop Stand,Accessories,3,150000,TRANSFER,Cancelled
+ORD00374,2026-06-06,Dina,Bukittinggi,Keyboard,Accessories,4,175000,cash,Cancelled
+ORD00375,2026-04-13,Fajar,Padang,Wireless Mouse,Accessories,1,85000,Transfer,Completed
+ORD00376,2026-03-05,Hadi,Padang,Headset,Electronics,1,250000,E-Wallet,completed
+ORD00377,2026-03-10,Dina,Bukittinggi,SSD 512GB,Storage,3,750000,E-Wallet,Cancelled
+ORD00378,2026-06-17,Andi,Padang,Webcam,Electronics,3,350000,Transfer,Completed
+ORD00379,2026-03-20,Budi,Pekanbaru,SSD 512GB,Storage,2,750000,cash,Cancelled
+ORD00380,2026-06-13,Eka,Pekanbaru,Wireless Mouse,Accessories,3,85000,E-Wallet,Cancelled
+ORD00381,2026-02-04,Dina,Bukittinggi,USB Hub,Accessories,4,75000,Transfer,completed
+ORD00382,2026-06-29,Fajar,Padang,Monitor,Electronics,5,1800000,cash,Cancelled
+ORD00383,2026-06-24,Dina,Bukittinggi,USB Hub,Accessories,5,75000,Cash,Cancelled
+ORD00384,2026-01-20,Hadi,Padang,Headset,Electronics,5,250000,Cash,Completed
+ORD00385,2026-02-12,Dina,Bukittinggi,Keyboard,Accessories,3,175000,TRANSFER,completed
+ORD00386,2026-05-30,Budi,Pekanbaru,USB Hub,Accessories,4,75000,Cash,Cancelled
+ORD00387,2026-04-27,Hadi,Padang,Laptop Stand,Accessories,2,150000,TRANSFER,completed
+ORD00388,2026-05-24,Hadi,Padang,Laptop Stand,Accessories,-1,150000,E-Wallet,Cancelled
+ORD00389,2026-03-07,Andi,Padang,Monitor,Electronics,1,1800000,Transfer,Cancelled
+ORD00390,2026-04-19,Budi,Pekanbaru,Laptop Stand,Accessories,3,150000,Cash,Cancelled
+ORD00391,2026-05-01,Andi,Padang,Wireless Mouse,Accessories,1,85000,E-Wallet,completed
+ORD00392,2026-06-14,Citra,Padang,Keyboard,Accessories,4,175000,E-Wallet,completed
+ORD00393,2026-04-07,Hadi,Padang,Monitor,Electronics,1,1800000,TRANSFER,Completed
+ORD00394,2026-02-15,Fajar,Padang,Wireless Mouse,Accessories,5,85000,cash,Cancelled
+ORD00395,2026-01-01,Citra,Padang,USB Hub,Accessories,1,75000,E-Wallet,completed
+ORD00396,2026-02-28,Gita,Payakumbuh,Monitor,Electronics,2,1800000,cash,completed
+ORD00397,2026-02-18,Citra,Padang,Webcam,Electronics,1,350000,Cash,Cancelled
+ORD00398,2026-03-03,Gita,Payakumbuh,Laptop Stand,Accessories,2,150000,Cash,Completed
+ORD00399,2026-06-03,Andi,Padang,SSD 512GB,Storage,1,750000,Transfer,Cancelled
+ORD00400,2026-04-23,Andi,Padang,Monitor,Electronics,2,1800000,TRANSFER,Completed
+ORD00401,2026-05-09,Andi,Padang,Keyboard,Accessories,3,175000,Transfer,Cancelled
+ORD00402,2026-03-02,Fajar,Padang,Headset,Electronics,3,250000,Transfer,Cancelled
+ORD00403,2026-03-18,Dina,Bukittinggi,Monitor,Electronics,3,1800000,Cash,Cancelled
+ORD00404,2026-05-23,Citra,Padang,Monitor,Electronics,4,1800000,Cash,completed
+ORD00405,2026-06-28,Gita,Payakumbuh,Headset,Electronics,4,250000,cash,Completed
+ORD00406,2026-02-17,Eka,Pekanbaru,Monitor,Electronics,5,1800000,cash,Completed
+ORD00407,2026-02-06,Dina,Bukittinggi,Webcam,Electronics,4,350000,Cash,Cancelled
+ORD00408,2026-05-23,Gita,Payakumbuh,Monitor,Electronics,5,1800000,Transfer,completed
+ORD00409,2026-02-22,Dina,Bukittinggi,Webcam,Electronics,3,350000,Cash,completed
+ORD00410,2026-05-18,Fajar,Padang,Wireless Mouse,Accessories,2,85000,Cash,completed
+ORD00411,2026-01-19,Gita,Payakumbuh,Laptop Stand,Accessories,2,150000,TRANSFER,Cancelled
+ORD00412,2026-02-23,Dina,Bukittinggi,SSD 512GB,Storage,3,750000,E-Wallet,Completed
+ORD00413,2026-01-31,Dina,Bukittinggi,USB Hub,Accessories,4,75000,Transfer,Cancelled
+ORD00414,2026-03-03,Dina,Bukittinggi,Monitor,Electronics,5,1800000,E-Wallet,completed
+ORD00415,2026-05-17,Gita,,SSD 512GB,Storage,3,750000,E-Wallet,completed
+ORD00416,2026-04-30,Fajar,Padang,SSD 512GB,Storage,1,750000,cash,completed
+ORD00417,2026-03-22,Dina,Bukittinggi,Headset,Electronics,4,250000,Cash,Cancelled
+ORD00418,2026-01-05,Dina,Bukittinggi,Keyboard,Accessories,3,175000,TRANSFER,Cancelled
+ORD00419,2026-02-09,Gita,Payakumbuh,Webcam,Electronics,2,350000,E-Wallet,Completed
+ORD00420,2026-05-08,Gita,Payakumbuh,USB Hub,Accessories,5,75000,E-Wallet,completed
+ORD00421,2026-04-28,Hadi,Padang,SSD 512GB,Storage,2,750000,E-Wallet,Completed
+ORD00422,2026-02-17,Citra,Padang,SSD 512GB,Storage,5,750000,Cash,Cancelled
+ORD00423,2026-06-21,Andi,Padang,Wireless Mouse,Accessories,1,85000,Cash,completed
+ORD00424,2026-01-18,Citra,Padang,USB Hub,Accessories,2,75000,Cash,Completed
+ORD00425,2026-01-16,Hadi,Padang,Headset,Electronics,5,250000,TRANSFER,completed
+ORD00426,2026-01-02,Hadi,Padang,Laptop Stand,Accessories,5,150000,TRANSFER,completed
+ORD00427,2026-05-16,Andi,Padang,Laptop Stand,Accessories,3,150000,TRANSFER,completed
+ORD00428,2026-02-15,Andi,Padang,Monitor,Electronics,1,1800000,Cash,Cancelled
+ORD00429,2026-02-19,Citra,Padang,USB Hub,Accessories,5,75000,TRANSFER,completed
+ORD00430,2026-04-12,Fajar,Padang,Webcam,Electronics,1,350000,E-Wallet,completed
+ORD00431,2026-06-28,Hadi,Padang,USB Hub,Accessories,2,75000,E-Wallet,Cancelled
+ORD00432,2026-01-24,Budi,Pekanbaru,Laptop Stand,Accessories,4,150000,cash,completed
+ORD00433,2026-06-13,Hadi,Padang,Laptop Stand,Accessories,1,150000,Transfer,Completed
+ORD00434,2026-06-15,Hadi,Padang,Monitor,Electronics,3,1800000,TRANSFER,Completed
+ORD00435,2026-02-24,Andi,Padang,USB Hub,Accessories,5,75000,cash,completed
+ORD00436,2026-06-25,Andi,Padang,Wireless Mouse,Accessories,3,85000,TRANSFER,Cancelled
+ORD00437,2026-03-22,Andi,Padang,Keyboard,Accessories,1,175000,Transfer,Cancelled
+ORD00438,2026-01-20,Citra,Padang,Monitor,Electronics,3,1800000,Transfer,Cancelled
+ORD00439,2026-06-23,Dina,Bukittinggi,Monitor,Electronics,5,1800000,E-Wallet,completed
+ORD00440,2026-05-09,Citra,Padang,Wireless Mouse,Accessories,3,85000,Cash,Completed
+ORD00441,2026-01-20,Gita,Payakumbuh,USB Hub,Accessories,3,75000,TRANSFER,Cancelled
+ORD00442,2026-01-08,Gita,Payakumbuh,Headset,Electronics,3,250000,cash,completed
+ORD00443,2026-05-22,Dina,Bukittinggi,Headset,Electronics,4,250000,cash,Completed
+ORD00444,2026-06-08,Gita,Payakumbuh,Wireless Mouse,Accessories,3,85000,Transfer,Cancelled
+ORD00445,2026-03-10,Budi,Pekanbaru,Wireless Mouse,Accessories,2,85000,cash,Cancelled
+ORD00446,2026-03-23,Citra,Padang,Monitor,Electronics,3,1800000,Cash,Completed
+ORD00447,2026-04-24,Andi,Padang,Webcam,Electronics,3,350000,E-Wallet,Completed
+ORD00448,2026-02-17,Citra,Padang,Wireless Mouse,Accessories,4,85000,cash,Cancelled
+ORD00449,2026-01-07,Gita,Payakumbuh,Wireless Mouse,Accessories,1,85000,E-Wallet,Cancelled
+ORD00450,2026-04-09,Budi,Pekanbaru,Headset,Electronics,1,250000,E-Wallet,completed
+ORD00451,2026-05-24,Gita,Payakumbuh,Wireless Mouse,Accessories,2,85000,TRANSFER,Cancelled
+ORD00452,2026-02-13,Citra,Padang,Monitor,Electronics,2,1800000,E-Wallet,completed
+ORD00453,2026-02-07,Eka,Pekanbaru,SSD 512GB,Storage,1,750000,Transfer,completed
+ORD00454,2026-03-18,Eka,Pekanbaru,Monitor,Electronics,4,1800000,Cash,completed
+ORD00455,2026-06-10,Eka,Pekanbaru,USB Hub,Accessories,4,75000,TRANSFER,Cancelled
+ORD00456,2026-01-28,Dina,Bukittinggi,SSD 512GB,Storage,2,750000,E-Wallet,Completed
+ORD00457,2026-06-08,Gita,Payakumbuh,Headset,Electronics,4,250000,E-Wallet,completed
+ORD00458,2026-06-16,Fajar,Padang,Monitor,Electronics,5,1800000,Transfer,completed
+ORD00459,2026-05-03,Fajar,Padang,USB Hub,Accessories,3,75000,Transfer,completed
+ORD00460,2026-06-27,Fajar,Padang,Webcam,Electronics,4,350000,TRANSFER,Completed
+ORD00461,2026-03-13,Fajar,Padang,Monitor,Electronics,4,1800000,E-Wallet,Completed
+ORD00462,2026-06-24,Dina,Bukittinggi,Keyboard,Accessories,5,175000,Cash,Cancelled
+ORD00463,2026-04-23,Hadi,Padang,USB Hub,Accessories,3,75000,Cash,completed
+ORD00464,2026-06-12,Hadi,Padang,Keyboard,Accessories,3,175000,Transfer,completed
+ORD00465,2026-04-07,Citra,Padang,Monitor,Electronics,1,1800000,cash,Cancelled
+ORD00466,2026-05-17,Hadi,Padang,Monitor,Electronics,5,1800000,cash,Cancelled
+ORD00467,2026-06-29,Andi,Padang,Headset,Electronics,5,250000,TRANSFER,Cancelled
+ORD00468,2026-03-05,Budi,Pekanbaru,Wireless Mouse,Accessories,3,85000,Transfer,Cancelled
+ORD00469,2026-03-26,Andi,Padang,Monitor,Electronics,4,1800000,Cash,Completed
+ORD00470,2026-02-26,Budi,Pekanbaru,Webcam,Electronics,5,350000,TRANSFER,Cancelled
+ORD00471,2026-04-06,Dina,Bukittinggi,SSD 512GB,Storage,4,750000,cash,Cancelled
+ORD00472,2026-01-07,Citra,Padang,Headset,Electronics,4,250000,Cash,completed
+ORD00473,2026-01-30,Gita,Payakumbuh,Wireless Mouse,Accessories,2,85000,E-Wallet,completed
+ORD00474,2026-02-22,Fajar,Padang,SSD 512GB,Storage,5,750000,cash,completed
+ORD00475,2026-04-23,Hadi,Padang,Wireless Mouse,Accessories,4,85000,E-Wallet,Completed
+ORD00476,2026-01-30,Eka,Pekanbaru,Laptop Stand,Accessories,1,150000,E-Wallet,Cancelled
+ORD00477,2026-03-04,Budi,Pekanbaru,Keyboard,Accessories,5,175000,Transfer,Cancelled
+ORD00478,2026-05-24,Citra,Padang,Headset,Electronics,4,250000,cash,Completed
+ORD00479,2026-02-17,Gita,Payakumbuh,Keyboard,Accessories,4,175000,cash,Completed
+ORD00480,2026-06-01,Dina,Bukittinggi,SSD 512GB,Storage,4,750000,cash,Completed
+ORD00481,2026-03-13,Dina,Bukittinggi,USB Hub,Accessories,1,75000,TRANSFER,Completed
+ORD00482,2026-03-25,Citra,Padang,Headset,Electronics,2,250000,cash,Completed
+ORD00483,2026-05-16,Eka,Pekanbaru,SSD 512GB,Storage,3,750000,TRANSFER,completed
+ORD00484,2026-03-31,Gita,Payakumbuh,Wireless Mouse,Accessories,3,85000,cash,Cancelled
+ORD00485,2026-06-07,Citra,Padang,Webcam,Electronics,-1,350000,Cash,Cancelled
+ORD00486,2026-01-31,Citra,Padang,Headset,Electronics,2,250000,E-Wallet,Completed
+ORD00487,2026-06-27,Citra,Padang,Headset,Electronics,2,250000,TRANSFER,completed
+ORD00488,2026-05-28,Gita,Payakumbuh,Keyboard,Accessories,4,175000,cash,Completed
+ORD00489,2026-05-23,Hadi,Padang,Keyboard,Accessories,2,175000,cash,completed
+ORD00490,2026-03-22,Citra,Padang,Keyboard,Accessories,4,175000,TRANSFER,Completed
+ORD00491,2026-05-05,Fajar,Padang,Laptop Stand,Accessories,2,150000,Transfer,completed
+ORD00492,2026-06-25,Hadi,Padang,Monitor,Electronics,4,1800000,cash,Cancelled
+ORD00493,2026-02-12,Hadi,Padang,SSD 512GB,Storage,1,750000,TRANSFER,Completed
+ORD00494,2026-01-09,Dina,Bukittinggi,Webcam,Electronics,3,350000,Transfer,Cancelled
+ORD00495,2026-04-28,Eka,Pekanbaru,Keyboard,Accessories,5,175000,cash,Cancelled
+ORD00496,2026-03-10,Budi,Pekanbaru,Wireless Mouse,Accessories,5,85000,E-Wallet,Cancelled
+ORD00497,2026-05-20,Andi,Padang,SSD 512GB,Storage,2,750000,cash,Completed
+ORD00498,2026-01-09,Dina,,Webcam,Electronics,4,350000,E-Wallet,completed
+ORD00499,2026-01-31,Budi,Pekanbaru,SSD 512GB,Storage,2,750000,Transfer,Cancelled
+ORD00500,2026-02-12,Fajar,Padang,Monitor,Electronics,5,1800000,Transfer,Completed
+ORD00011,2026-06-12,Eka,Pekanbaru,SSD 512GB,Storage,3,750000,Transfer,completed
+ORD00026,2026-01-05,Fajar,Padang,SSD 512GB,Storage,1,750000,E-Wallet,completed
+ORD00101,2026-06-14,Andi,Padang,Wireless Mouse,Accessories,4,85000,Transfer,completed
+ORD99999,2026-99-99,Unknown,Padang,Mouse,Accessories,1,85000,Cash,Completed

@@ -1,0 +1,7 @@
+pandas
+pyspark
+pyarrow
+pytest
+pyyaml
+mysql-connector-python
+python-dotenv

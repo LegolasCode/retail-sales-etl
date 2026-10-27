@@ -1,0 +1,30 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Environment dan credentials
+.env
+.env.*
+!.env.example
+
+# Output data lake
+data/lake/
+
+# Dataset publik lokal
+data/public_source/*
+!data/public_source/.gitkeep
+
+# Benchmark lokal
+data/benchmark/*.json
+
+# File sementara Spark
+spark-warehouse/
+metastore_db/
+derby.log
+*.log
+
+# Editor
+.vscode/
+.idea/
